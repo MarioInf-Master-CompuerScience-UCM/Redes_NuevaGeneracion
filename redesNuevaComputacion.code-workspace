@@ -1,0 +1,28 @@
+{
+    "folders": [
+        {
+            "path": "tema1_IpDeNuevaGeneracion.IPv6"
+        },
+        {
+            "path": "tema2_encaminamientoInterno.OSPF"
+        },
+        {
+            "path": "tema3_encaminamientoExterior.BGP"
+        },
+        {
+            "path": "tema4_encaminamientoTroncal.MPLS"
+        },
+        {
+            "path": "tema5_redesDefinidasPorSoftware.SDN"
+        },
+        {
+            "path": "examenes"
+        },
+        {
+            "path": "recursosBibliograficos"
+        },
+        {
+            "path": "."
+        },
+    ]
+}
