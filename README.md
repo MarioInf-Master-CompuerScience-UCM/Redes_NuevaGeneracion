@@ -1,13 +1,27 @@
 # Redes de nueva generación e internet
 
-**_Los presentes contenidos corresponden con la edición del curso 2022-2023_**
+![Idioma: Español](https://img.shields.io/badge/Idioma-Español-green.svg)
+![Idioma: Español](https://img.shields.io/badge/Año_académico-2022/2023-blue.svg)
+![Idioma: Español](https://img.shields.io/badge/Curso_académico-Primer_curso-blue.svg)
 
 Enlaces relevantes:
 
 - [Página web de la titulación](https://informatica.ucm.es/master-en-ingenieria-informatica)
 - [Ficha docente de la asignatura](docs/fichaDocente.pdf)
 
-Programa de la asignatura:
+## Organización del repositorio
+
+- Contenidos teóricos/prácticos:
+  - [Tema 1 - IP de nueva generación. IPv6](tema1_IpDeNuevaGeneracion.IPv6)
+  - [Tema 2 - Encaminamiento interno. OSPF](tema2_encaminamientoInterno.OSPF)
+  - [Tema 3 - Encaminamiento exterior. BGP](tema3_encaminamientoExterior.BGP)
+  - [Tema 4 - Encaminamiento troncal. MPLS](tema4_encaminamientoTroncal.MPLS)
+  - [Tema 5 - Redes definidas por software](tema5_redesDefinidasPorSoftware.SDN)
+- Otros contenidos:
+  - [Exámenes](examenes)
+  - [Recursos bibliográficos](recursosBibliograficos)
+
+## Programa de la asignatura
 
 - Tema 1. Introducción a las redes de nueva generación
   - 1.1. Arquitectura de Redes de Nueva Generación
@@ -33,4 +47,4 @@ Programa de la asignatura:
 
 ## Licencia de uso
 
-<p xmlns:cc="http://creativecommons.org/ns#" >This work is licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-NC-SA 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1" alt=""></a></p>
+<p xmlns:cc="http://creativecommons.org/ns#">This work is licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-NC-SA 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1" alt=""></a></p>
